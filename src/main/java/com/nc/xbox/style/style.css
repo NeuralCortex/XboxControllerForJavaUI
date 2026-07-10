@@ -1,0 +1,11 @@
+.root{
+     -fx-font: 10px "Arial";
+}
+
+.fg{
+    -fx-background-color:-color-base-8;
+}
+
+.xbox-green{
+    -fx-background-color:#107C11;
+}
